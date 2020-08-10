@@ -1,0 +1,1 @@
+AR_Search_Pattern
